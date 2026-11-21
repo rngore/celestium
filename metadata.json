@@ -1,0 +1,6 @@
+{
+  "name": "CELESTIUM — Deep-Space GPS & Autonomous Navigation System",
+  "description": "Explore Beyond Earth. Navigate Beyond Limits. Full-stack deep-space mission intelligence, live 3D solar system ephemerides, X-ray pulsar autonomous navigation simulator, and interplanetary mission planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

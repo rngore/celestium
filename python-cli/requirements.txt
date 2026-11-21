@@ -1,0 +1,1 @@
+# CELESTIUM Python CLI runs on pure Python >= 3.10 standard library with zero external runtime dependencies.
